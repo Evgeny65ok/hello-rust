@@ -1,4 +1,4 @@
-# 🦀 hello-rust — CI/CD на Rust → GHCR
+<img width="1362" height="526" alt="image" src="https://github.com/user-attachments/assets/3681c81e-2cc3-4659-8d58-8f4a48185a1d" /># 🦀 hello-rust — CI/CD на Rust → GHCR
 
 Учебный проект: пайплайн **CI/CD** на Rust с публикацией Docker-образа в **GitHub Container Registry**.
 
@@ -39,9 +39,11 @@ docker run --rm ghcr.io/evgeny65ok/hello-rust
 ## Результаты
 
 ### Workflow в Actions
-<img width="1698" height="717" alt="Снимок экрана 2026-09-23 114406" src="https://github.com/user-attachments/assets/be9e94ed-584b-4ee2-abfe-253192975025" />
+<img width="1362" height="526" alt="image" src="https://github.com/user-attachments/assets/95fde65a-f1f8-4328-b953-51ffae2219f5" />
+
 
 
 ### Пакет в GHCR
-<img width="1717" height="885" alt="Снимок экрана 2026-09-23 114445" src="https://github.com/user-attachments/assets/c4af9b47-1ae4-41f0-b18a-f0a17669b1ab" />
+<img width="1056" height="528" alt="image" src="https://github.com/user-attachments/assets/5c941a7d-0d91-40f7-b8aa-163f098a4b3c" />
+
 
