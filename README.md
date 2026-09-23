@@ -38,7 +38,8 @@ docker run --rm ghcr.io/evgeny65ok/hello-rust
 
 ### Workflow в Actions
 
-<img width="990" height="387" alt="image" src="https://github.com/user-attachments/assets/43139d95-f2b8-4193-bc1f-219f62c9539f" />
+<img width="990" height="387" alt="Снимок экрана 2026-09-23 115947" src="https://github.com/user-attachments/assets/afcf25ab-2a6b-4bf5-b654-b6f22c7fd3ce" />
+
 
 
 
