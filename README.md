@@ -37,11 +37,13 @@ docker run --rm ghcr.io/evgeny65ok/hello-rust
 ## Результаты
 
 ### Workflow в Actions
-<img width="1362" height="526" alt="image" src="https://github.com/user-attachments/assets/95fde65a-f1f8-4328-b953-51ffae2219f5" />
+
+<img width="990" height="387" alt="image" src="https://github.com/user-attachments/assets/43139d95-f2b8-4193-bc1f-219f62c9539f" />
 
 
 
 ### Пакет в GHCR
-<img width="1056" height="528" alt="image" src="https://github.com/user-attachments/assets/5c941a7d-0d91-40f7-b8aa-163f098a4b3c" />
+<img width="1467" height="696" alt="Снимок экрана 2026-09-23 115758" src="https://github.com/user-attachments/assets/c8df73c4-f877-41ec-80f9-dbe5671ba521" />
+
 
 
