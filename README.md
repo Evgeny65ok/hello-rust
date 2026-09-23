@@ -1,5 +1,3 @@
-<img width="1362" height="526" alt="image" src="https://github.com/user-attachments/assets/3681c81e-2cc3-4659-8d58-8f4a48185a1d" /># 🦀 hello-rust — CI/CD на Rust → GHCR
-
 Учебный проект: пайплайн **CI/CD** на Rust с публикацией Docker-образа в **GitHub Container Registry**.
 
 
